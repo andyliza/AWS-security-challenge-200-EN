@@ -118,4 +118,4 @@ sudo systemctl restart nginx
 
 Once you have set up the application it is time to troubleshoot it.
 
-Find 10 security breaches in the architecture and e-mail it to one of the class instructors. If you are among the first 3 that sends us 10 mistakes in the architecture we will provide you with an amazing prize :).
+🏆 Find 10 security breaches in the architecture and e-mail it to one of the class instructors. If you are among the first 3 that sends us 10 mistakes in the architecture we will provide you with an amazing prize :). 🏆
