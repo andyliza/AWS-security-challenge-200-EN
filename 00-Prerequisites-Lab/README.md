@@ -116,5 +116,6 @@ sudo systemctl restart nginx
 
 18) Feel Free to add more unicorns in the list :) so we can play later.
 
+Once you have set up the application it is time to troubleshoot it.
 
-When you see that the operation has been completed successfully move to the [first lab (CloudTrail)](../01-CloudTrail-Lab/README.md)
+Find 10 security breaches in the architecture and e-mail it to one of the class instructors. If you are among the first 3 that sends us 10 mistakes in the architecture we will provide you with an amazing prize :).
