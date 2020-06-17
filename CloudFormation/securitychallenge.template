@@ -829,6 +829,51 @@
   }
 },
 
+"User1":  {
+    "Type" : "AWS::IAM::User",
+    "Properties" : {
+        "Policies" : [ {
+            "PolicyName" : "FullAdministratorAccess",
+            "PolicyDocument":{
+              "Version": "2012-10-17",
+              "Statement": [
+                  {
+                      "Effect": "Allow",
+                      "Action": "*",
+                      "Resource": "*"
+                  }
+              ]
+          }
+            }
+      ],
+        "UserName" : "Andrei"
+      }
+  },
+  "User2":  {
+      "Type" : "AWS::IAM::User",
+      "Properties" : {
+          "Policies" : [ {
+              "PolicyName" : "FullAdministratorAccess",
+              "PolicyDocument":{
+                "Version": "2012-10-17",
+                "Statement": [
+                    {
+                        "Effect": "Allow",
+                        "Action": "*",
+                        "Resource": "*"
+                    }
+                ]
+            }
+              }
+        ],
+          "UserName" : "Kimberly"
+        }
+    },
+
+
+
+
+
 
 "Cloud9Security":{
   "Type" : "AWS::Cloud9::EnvironmentEC2",
