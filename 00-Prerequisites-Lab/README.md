@@ -23,7 +23,7 @@ connection.
 
 ### Deploy the CloudFormation template for the sample application "Unicorn Adoption Site"
 
-1) Download the cloudformation template from <a id="raw-url" href=https://raw.githubusercontent.com/andyliza/AWS-security-challenge-200-EN/master/CloudFormation/securitychallenge.template">this link</a>. Just simply right click on the link and select *Save Link As*. Store the file on your computer as we will need it in the next steps.
+1) Download the cloudformation template from <a id="raw-url" href="https://raw.githubusercontent.com/andyliza/AWS-security-challenge-200-EN/master/CloudFormation/securitychallenge.template">this link</a>. Just simply right click on the link and select *Save Link As*. Store the file on your computer as we will need it in the next steps.
 
 ![images](images/rightclick.png)
 
