@@ -43,7 +43,7 @@ connection.
 
 ![images](images/cloudformation-upload-4.png)
 
-6) In the summary page click on **Create Stack**.
+6) Make sure that you **acknowledge the creation of IAM resources** in the summary page and then click on **Create Stack**.
 
 ![images](images/cloudformation-upload-5.png)
 
